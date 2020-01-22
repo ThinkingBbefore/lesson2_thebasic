@@ -68,8 +68,18 @@
 #     integer_number = integer_number//10
 # else: print('No')
 
-# Task №10
-# i = 345543
+# #Task №9
+# i = 45279366174
+# max = 0
+#
+# while i > 0:
+#     if (i % 10) >= max:
+#         max = (i % 10)
+#     i = (i // 10)
+# print(max)
+
+# #Task №10
+# i = 345543485234658239
 # sum = 0
 #
 # while i > 0:
@@ -78,10 +88,3 @@
 #         sum = sum + (i % 10 == 5)
 #     i = i // 10
 # print(sum)
-
-#Task №9
-'''
-
-Не могу понять как сравнивать полученные числа
-
-'''
